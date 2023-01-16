@@ -1,0 +1,11 @@
+E:\arquery\vbexample\finalassesmentproject\finalassesmentproject\bin\finalassesmentproject.dll.config
+E:\arquery\vbexample\finalassesmentproject\finalassesmentproject\bin\finalassesmentproject.dll
+E:\arquery\vbexample\finalassesmentproject\finalassesmentproject\bin\finalassesmentproject.pdb
+E:\arquery\vbexample\finalassesmentproject\finalassesmentproject\bin\finalassesmentproject.xml
+E:\arquery\vbexample\finalassesmentproject\finalassesmentproject\obj\Debug\finalassesmentproject.Resources.resources
+E:\arquery\vbexample\finalassesmentproject\finalassesmentproject\obj\Debug\finalassesmentproject.vbproj.GenerateResource.Cache
+E:\arquery\vbexample\finalassesmentproject\finalassesmentproject\obj\Debug\finalassesmentproject.dll
+E:\arquery\vbexample\finalassesmentproject\finalassesmentproject\obj\Debug\finalassesmentproject.xml
+E:\arquery\vbexample\finalassesmentproject\finalassesmentproject\obj\Debug\finalassesmentproject.pdb
+E:\arquery\vbexample\finalassesmentproject\finalassesmentproject\obj\Debug\finalassesmentproject.vbproj.AssemblyReference.cache
+E:\arquery\vbexample\finalassesmentproject\finalassesmentproject\obj\Debug\finalassesmentproject.vbproj.CoreCompileInputs.cache
